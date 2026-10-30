@@ -1,0 +1,37 @@
+禾启智客（HeQi Ai CRM）软件许可
+
+版权所有 © 2026 深圳市禾启时代科技有限公司。保留所有权利。
+
+1. 本仓库发布的安装包、更新包，以及其中由深圳市禾启时代科技有限公司（下称「禾启」）编写的程序、
+   脚本、配置与文档（下合称「本软件」），著作权归禾启所有。
+2. 只有与禾启签订书面合同的客户，才可以在合同约定的范围和期限内安装、使用本软件。
+3. 除第 2 条外，未经禾启书面许可，任何人不得：
+   (1) 将本软件用于任何商业目的；
+   (2) 复制、修改、反向工程、转售、出租或再分发本软件或其任何部分；
+   (3) 以本软件为基础制作衍生产品或提供服务。
+4. 本软件可以从本仓库公开下载，不代表下载者获得任何使用授权。
+5. 本软件中的第三方开源组件（例如 ERPNext、MariaDB）按各自的开源许可证提供，不受第 2、3 条限制；
+   清单与源码出处随安装包一同发布。
+6. 本许可与客户合同不一致的，以合同为准。本许可的中文版本与英文译本不一致的，以中文版本为准。
+
+----------------------------------------------------------------------
+
+HeQi Ai CRM Software License (English translation)
+
+Copyright (c) 2026 Shenzhen Heqishidai Technology Co., Ltd. All rights reserved.
+
+1. The installer and update packages published in this repository, and the programs, scripts,
+   configuration and documentation written by Shenzhen Heqishidai Technology Co., Ltd. ("HeQi")
+   contained in them (together, the "Software"), are owned by HeQi.
+2. Only customers who have signed a written agreement with HeQi may install and use the Software,
+   within the scope and term of that agreement.
+3. Except as permitted in section 2, no one may, without HeQi's prior written permission:
+   (a) use the Software for any commercial purpose;
+   (b) copy, modify, reverse engineer, sell, rent or redistribute the Software or any part of it;
+   (c) build derivative products or services based on the Software.
+4. Being able to download the Software from this repository does not grant any licence to use it.
+5. Third-party open-source components included in the Software (for example ERPNext and MariaDB)
+   are provided under their own licences and are not restricted by sections 2 and 3. A list with
+   source locations is published with each package.
+6. Where this licence conflicts with a customer's agreement, the agreement prevails. Where the
+   Chinese text and this English translation differ, the Chinese text prevails.
